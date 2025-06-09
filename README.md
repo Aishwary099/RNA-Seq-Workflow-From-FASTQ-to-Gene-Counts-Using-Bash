@@ -21,6 +21,6 @@ output.html – Example report generated from FastQC or summary
 
 📊 View Results 
 1. https://github.com/Aishwary099/RNA-Seq-Workflow-From-FASTQ-to-Gene-Counts-Using-Bash/blob/main/demo_fastqc.html
-2. 
+2. https://github.com/Aishwary099/RNA-Seq-Workflow-From-FASTQ-to-Gene-Counts-Using-Bash/blob/main/demo_trimmed_fastqc.html
 
 
